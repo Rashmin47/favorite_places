@@ -57,7 +57,7 @@ class _ImageInputState extends State<ImageInput> {
       height: 250,
       width: double.infinity,
       alignment: Alignment.center,
-      child: widget,
+      child: content,
     );
   }
 }
