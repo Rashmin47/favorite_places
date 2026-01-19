@@ -1,6 +1,6 @@
 # favorite_places
 
-A new Flutter project.
+This is a project that helps to save photo and location of your favorite places.
 
 ## Getting Started
 
